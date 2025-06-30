@@ -5,7 +5,7 @@
 </div>
 
 <div align="center" width="50">![portada2](https://github.com/user-attachments/assets/36cfadc1-2a4b-4f6f-9559-77ff60d17109)
-
+<img src="https://github.com/user-attachments/assets/36cfadc1-2a4b-4f6f-9559-77ff60d17109" width="600">
 
 <!--
 **holocrom/holocrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
