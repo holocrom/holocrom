@@ -1,12 +1,12 @@
+
 ## Hi there, Mario here... 👋
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
-<div align="center" width="50">![portada2](https://github.com/user-attachments/assets/d24c5324-ff4b-413f-9a1d-b1083b19bd91)
+<div align="center" width="50">![portada2](https://github.com/user-attachments/assets/36cfadc1-2a4b-4f6f-9559-77ff60d17109)
 
 
-<img src="[D:/temporal/git/portada2.jpg](https://github.com/user-attachments/assets/d24c5324-ff4b-413f-9a1d-b1083b19bd91)" alt="Welcome!" width="300"/>
 <!--
 **holocrom/holocrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
